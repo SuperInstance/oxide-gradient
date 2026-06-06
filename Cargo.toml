@@ -1,0 +1,7 @@
+[package]
+name = "oxide-gradient"
+version = "0.1.0"
+edition = "2021"
+description = "Experiment: gradient-based GPU resource optimization via ternary search. Ternary {-1,0,+1} as gradient directions for block size, shared memory, and warp count auto-tuning."
+license = "Apache-2.0"
+repository = "https://github.com/SuperInstance/oxide-gradient"
